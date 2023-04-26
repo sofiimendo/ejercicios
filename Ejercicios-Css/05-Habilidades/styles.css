@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&family=Roboto:wght@300;400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Mulish', sans-serif;
+    font-size: 13px;
+    background:linear-gradient(60deg,#5ed5c6,#50c2db);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+h4{
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+    margin: 15px;
+}
+.container{
+    background-color: #FFFF;
+    border-radius: 10px;
+    box-shadow: 1px 2px 5px -3px #aaa;
+    height: 320px;
+    width: 370px;
+    padding: 30px;
+}
+.medidas{
+    margin:3px;
+    padding: 3px;
+    height: 70px;
+    width: 310px;
+    box-shadow: 2px 2px 3px -3px #aaa;
+    border-radius: 3px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 25px;
+}
+.boton{
+    height: 20px;
+    text-align: center;
+    width: 75px;
+    color: grey;
+    box-shadow: 2px 2px 3px -3px #aaa;
+}
+.courses{
+    color: grey;
+    display: flex;
+    font-size: 10px;
+    justify-content: flex-start;
+    align-items:center;
+    margin: 10px;
+}
+.vs{
+    border-left: 3px solid #ed5b98; 
+    
+}
+.front{
+    border-left: 3px solid #da90fe;
+}
+.Inf{
+    border-left:3px solid #f4a781;
+}

@@ -1,0 +1,48 @@
+h1{
+    color: rgb(132, 245, 132);
+}
+.span1{
+    color: rgb(226, 53, 88);
+}
+.span2{
+    color: rgb(243, 225, 63);
+}
+.span3{
+    color: rgb(103, 3, 128);
+}
+.anana{
+    color: rgb(243, 225, 63);
+}
+.banana{
+    color: yellow;
+}
+.roja{
+    color: red;
+}
+.verde{
+    color:rgb(132, 245, 132);
+}
+.uva{
+    color:purple
+}
+.frutilla{
+    color: rgb(250, 43, 43);
+}
+.pera{
+    color: rgba(188, 255, 100, 0.87);
+}
+.naranja{
+    color: orange;
+}
+.sandia{
+    color: rgb(226, 53, 88);
+}
+.arandanos{
+    color: rgb(103, 3, 128);
+}
+.cereza{
+    color: #a11d33;
+}
+.durazno{
+    color: #ff6700;
+}

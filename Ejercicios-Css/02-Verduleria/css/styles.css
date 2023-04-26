@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #a5d6a7;
+    color: #242e4c;
+    font-family: 'Mulish', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: inline-block;
+    text-align: center;
+    background-color: #f7f7fc;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 30%);
+    margin: 150px;
+    padding:30px;
+    height: 350px;
+    width: 300px;
+}
+
+.frutas{
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    border-radius: 20px;
+}
+.alineacion{
+    text-align: center;
+    margin: 5px;
+}
+.saludo{
+    color: #7d7a9e
+}

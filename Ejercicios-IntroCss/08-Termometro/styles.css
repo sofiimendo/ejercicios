@@ -1,0 +1,41 @@
+ul{
+    text-align: center;
+    list-style: none;
+}
+li{
+    font-size: 50px;
+}
+.extrema{
+    font-weight: bolder;
+}
+.t0{
+    background-color: darkblue;
+}
+
+.t5{
+    background-color: #0077b6;
+}
+.t10{
+    background-color: #00b4d8;
+}
+.t15{
+    background-color: #48cae4;
+}
+.t20{
+    background-color: #90e0ef;
+}
+.t25{
+    background-color: #fff1d0;
+}
+.t30{
+    background-color: #fcf300;
+}
+.t35{
+    background-color: #ffc600;
+}
+.t40{
+    background-color: #fb8500;
+}
+.t50{
+    background-color: red;
+}

@@ -1,0 +1,32 @@
+h1{
+    font-family: 'Newsreader', sans-serif;
+    font-size: 50px;
+}
+a{
+    color: lightblue;
+    text-decoration: none;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+.texto{
+    color: gray;
+    font-family: 'Poppins', sans-serif;
+}
+.italica{
+    font-style: italic;
+}
+.negrita{
+    font-weight: bolder;
+}
+.distinto{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: bolder;
+}

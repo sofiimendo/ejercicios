@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: greenyellow;
+    margin: 5px;
+    padding: 5px;
+}
+.barracontenedora{
+    width: 100vw;
+    height: 100vh;
+    padding: 3px;
+}
+.progreso{
+    margin: 3px;
+    width: 500px;
+    height: 30px;
+    background-color: lightgray;
+    border-radius: 100px;
+    margin: 20px;
+}
+.estilos{
+    background-color:#52af50;
+    border-radius: 100px;
+    height: 30px;
+}
+.b10{
+    width: 10%;
+}
+.b25{
+    width: 25%;
+}
+.b50{
+    width: 50%;
+}
+.b75{
+    width: 75%;
+}
+.b90{
+    width: 90%;
+}

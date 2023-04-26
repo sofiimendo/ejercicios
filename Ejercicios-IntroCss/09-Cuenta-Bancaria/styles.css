@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+}
+.date{
+    font-size: 10px;
+    color: #d6d9da;
+}
+.entrada{
+    color: green;
+}
+.salida{
+    color: red;
+}

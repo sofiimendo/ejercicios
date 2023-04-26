@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(249, 249, 251);
+    margin-top: 150px;
+    text-align: center;
+}
+.container{
+    background-color: white;
+    box-shadow:  3px 5px 4px -4px #aaa;; 
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    height: 300px;
+    padding: 30px;
+    margin: 30px;
+    text-align: left;
+    width: 300px;
+}
+.campana{
+    font-size: 50px;
+}
+p{
+    margin: 5px;
+    font-size: 13px;
+}
+.notificacion{
+    font-weight: bold;
+    font-size: 20px;
+}
+span{
+    color:#bdb2fd;
+}
+.button{
+    background-color:#567ce4;
+    border-radius: 2px;
+    text-align: center;
+    padding: 15px;
+}
+.espacio{
+    padding: 3px;
+}

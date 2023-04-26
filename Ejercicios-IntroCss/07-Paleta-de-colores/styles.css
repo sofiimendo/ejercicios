@@ -1,0 +1,114 @@
+li{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    list-style: none;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.Mis {
+    color: deeppink;
+}
+
+.Paletas {
+    color: hotpink;
+}
+
+.FFADAD {
+    color: #FFADAD;
+}
+
+.FFD6A5 {
+    color:#F29E4C;
+    background-color: #FFD6A5;
+}
+
+.FDFFB6 {
+    color: #F1C453;
+    background-color: #FDFFB6;
+}
+
+.CAFFBF {
+    color: #0DB39E;
+    background-color: #CAFFBF;
+}
+
+.a9BF6FF {
+    color: #048BA8;
+    background-color: #9BF6FF;
+}
+
+.A0C4FF {
+    color: #54478C;
+    background-color: #A0C4FF;
+}
+
+.Aqua {
+    color: rgb(0, 119, 182);
+}
+
+.aqua1 {
+    color: rgb(1, 42, 74);
+    background-color: rgb(0, 150, 199);
+}
+
+.aqua2 {
+    color: rgb(1, 58, 99);
+    background-color: rgb(0, 180, 216);
+}
+
+.aqua3 {
+    color: rgb(1, 73, 124);
+    background-color: rgb(72, 202, 228);
+}
+
+.aqua4 {
+    color: rgb(1, 79, 134);
+    background-color: rgb(144, 224, 239);
+}
+
+.aqua5 {
+    color: rgb(42, 111, 151);
+    background-color: rgb(173, 232, 244);
+}
+
+.Green {
+    color: hsl(154, 53%, 57%);
+}
+
+.green1 {
+    background-color: hsl(147, 43%, 71%);
+    color: hsl(155, 43%, 18%);
+}
+
+.green2 {
+    background-color: hsl(150, 42%, 62%);
+    color:hsl(153, 40%, 30%)
+}
+
+.green3 {
+    background-color: hsl(152, 41%, 52%);
+    color: hsl(153, 39%, 41%);
+}
+
+.green4 {
+    background-color: hsl(153, 39%, 41%);
+    color: hsl(152, 41%, 52%);
+}
+
+.green5 {
+    background-color: hsl(153, 40%, 30%);
+    color: hsl(150, 42%, 62%);
+}
